@@ -9,5 +9,5 @@ works for both normal and admin
   
 # screenshots
 It is empty since no media is there currently  
-
-| ![Image](https://raw.githubusercontent.com/lewiseman/Xblog/master/static/images/screenshots/screen-six.png) |
+   
+![Image](https://raw.githubusercontent.com/lewiseman/movie-upload-django/master/static/movieapp/images/screenshots/screen-one.png)
